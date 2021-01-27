@@ -1,5 +1,8 @@
 # Contributing
 
+##Neue Zeile
+Bitte sende eine Email an: kollege@firma.com
+
 Your contributions are always welcome!
 
 ## Guideline
